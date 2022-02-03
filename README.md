@@ -1,8 +1,6 @@
 ### Hi there 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=junliu-cn.junliu-cn)](https://github.com/junliu-cn/junliu-cn)
 
-I'm currently a deep learning algorithm engineer working on developing high-performance algorithms for medical image analysis and industrial visual applications with the superpower of cutting-edge AI technologies. 
-
-I actively participate in the fourth industrial revolution and believe that technology can make the world a better place.
+I'm currently an AI Research Scientist working on developing algorithms for medical image analysis with the superpower of cutting-edge AI technologies. I actively participate in the fourth industrial revolution and believe that technology can make the world a better place.
 
 ### *Tools I use to code with!*
 
